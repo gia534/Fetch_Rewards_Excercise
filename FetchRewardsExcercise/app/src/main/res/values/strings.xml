@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FetchRewardsExcercise</string>
+    <string name="sort_by_id">Sort By Id</string>
+    <string name="sort_by_list_id">Sort By List Id</string>
+    <string name="sort_by_name">Sort By Name</string>
+</resources>
